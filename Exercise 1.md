@@ -24,7 +24,39 @@ Answer:
 Question 4: Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
 
 Answer: 
-  - 
+  - Deep neural networks and Ascend AI processors require the chips which obtains CPU(Central processing unit), GPU(Graphics processing unit), ASIC (Application specific integrated circuit), FPGA (Field programmable gate array) such as InTel Core, Apple Bionic etc
+    
+    -**CPU:**
+    * Low compute density
+    * Complex control logic
+    * Large caches(L1$/L2$, etc.)
+    * Optimzed for serial operations
+      . Fewer execution units (ALUs)
+      . Higher clock speeds
+    * Shallow pipelines (<30 stages)
+    * Low Latency Tolerance
+    * Newer CPUs have more parallelism
+   
+    -**GPU:**
+    * High compute density
+    * High Computations per Memory Access
+    * Built for parallel operations
+      . Many parallel execution units (ALUs)
+      . Graphics is the best known case of parallelism
+    * Deep pipelines (hundreds of stages)
+    * High Throughout
+    * High Latency Tolerance
+    * Newer GPUs:
+      . Better flow control logic (becoming more CPU-like)
+      . Scatter/Gather Memory Access
+      . Don't have one-way pipelines anymore
+      
+
+Question 5: Based on your current knowledge and understanding, please elaborate on the development trends of artificial intelligence in the future in your view.
+
+Answer: 
+
+  - In the future, the trend of AI will develop more and more advance than it is now. There will be some problems that will be solved by AI exclusively. However, AI is still a tool for helping and improving the human's life and never replace the man's intelligence
 
 
 
