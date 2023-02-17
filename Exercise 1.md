@@ -14,4 +14,17 @@ Answer:
   - Differences:
       + Aritifical Intelligence: Ability of a machine to imitate intelligent human behavior
       + Machine Learning: Using algorithms to automatically learn and improve from experience
-      + Deep learning: 
+      + Deep learning: Using complex algorithms and deep neutral nets to train a model 
+
+Question 3: After reading the artificial intelligence application scenarios in this chapter, please describe in detail a field of AI application and its scenarios in real life based on your own life experience.
+
+Answer:
+  - Virtual Assisstant such as Siri or Google Assistant will have more accurate answers like chatbot GPT. It is more interesting if there is a virtual assisstant talking to us with the correct answer similar to a communication between people.
+
+Question 4: Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
+
+Answer: 
+  - 
+
+
+
